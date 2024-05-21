@@ -1,0 +1,3 @@
+Voici votre facture : 
+Bella : 8€ sans TVA soit 10 avec TVA
+canapé : 48€ sans TVA soit 60 avec TVA
